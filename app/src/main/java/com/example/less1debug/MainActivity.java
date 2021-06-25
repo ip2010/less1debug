@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 TextView result = findViewById(R.id.view);
+                //Обработка попытки сравнения
                 try {
                     arg1 = Integer.valueOf(editText1.getText().toString());
                     arg2 = Integer.valueOf(editText2.getText().toString());
