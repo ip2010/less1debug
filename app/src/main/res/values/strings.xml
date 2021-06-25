@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">less1debug</string>
+    <string name="view">Результат сравнения</string>
+    <string name="compare">Сравнить</string>
+</resources>
